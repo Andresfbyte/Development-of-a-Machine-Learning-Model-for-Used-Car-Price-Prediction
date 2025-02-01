@@ -1,1 +1,2 @@
 # Development-of-a-Machine-Learning-Model-for-Used-Car-Price-Prediction
+The goal of this project is to create a machine learning model that can forecast the market value of used cars, giving Rusty Bargain's app an effective tool. The study entails comparing several supervised learning methods as well as data discovery, preprocessing, and analysis of vehicle-related characteristics. Training duration, prediction speed, and prediction quality will be the main evaluation criteria. Root Mean Squared Error, or RMSE, will be the main assessment statistic.
